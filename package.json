@@ -1,0 +1,12 @@
+{
+  "name": "gcp-stop-all-billing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "AnPham <noland.pham@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/billing": "^4.4.0",
+    "@google-cloud/functions-framework": "^3.4.0"
+  }
+}

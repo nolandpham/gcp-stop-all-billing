@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+package-lock.json
+npm-debug.log
+dist
+build
+.vscode
+.devmode.json
+.env
+deployment/.env
+c3_schemas.zip
+tmp/*
+*/.terraform/*
